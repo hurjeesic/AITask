@@ -48,49 +48,49 @@ gildong.run(["date", "time", "sleep_time"], ["sleep"], 1)
 
 기본 plot
 
-![image-20191217214642024](image/image-20191217214642024.png)
+![image-20191217214642024](./image/image-20191217214642024.png)
 
 
 
 pairplot
 
-![image-20191217215104183](image/image-20191217215104183.png)
+![image-20191217215104183](./image/image-20191217215104183.png)
 
 
 
 lm plot
 
-![image-20191217215223677](image/image-20191217215223677.png)
+![image-20191217215223677](./image/image-20191217215223677.png)
 
 
 
 histogram
 
-![image-20191217215327266](image/image-20191217215327266.png)
+![image-20191217215327266](./image/image-20191217215327266.png)
 
 
 
 violin plot
 
-![image-20191217215509847](image/image-20191217215509847.png)
+![image-20191217215509847](./image/image-20191217215509847.png)
 
 
 
 heatmap
 
-![image-20191217215607266](image/image-20191217215607266.png)
+![image-20191217215607266](./image/image-20191217215607266.png)
 
 
 
 boxplot
 
-![image-20191217215658075](image/image-20191217215658075.png)
+![image-20191217215658075](./image/image-20191217215658075.png)
 
 
 
 3d plot
 
-![image-20191217215830044](image/image-20191217215830044.png)
+![image-20191217215830044](./image/image-20191217215830044.png)
 
 
 
@@ -120,4 +120,4 @@ boxplot
 
 제거 결과 예측 점수는 다음과 같습니다.
 
-![image-20191217220923498](image\image-20191217220923498.png)
+![image-20191217220923498](./image/image-20191217220923498.png)
